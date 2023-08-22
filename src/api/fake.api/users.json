@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "_id": "67rdca3eeb7f6fgeed471812",
+            "name": "Сергей",
+            "password": "ivanov123",
+            "login": "ivanov"
+        },
+        {
+            "_id": "67rdca3eeb7f6fgeed471816",
+            "name": "Александр",
+            "password": "petrov321",
+            "login": "petrov"
+        },
+        {
+            "_id": "67rdca3eeb7f6fgeed471817",
+            "name": "Владимир",
+            "password": "smirnov213",
+            "login": "smirnov"
+        }
+    ]
+}
